@@ -1,0 +1,9 @@
+[Autorun]
+shellexecute=start.htm
+icon=Docs\atlassocdk.ico
+label=ATLAS SoCDK
+action=Open ATLAS SoCDK
+
+[DeviceInstall]
+DriverPath=Drivers\Windows\CDCACM
+DriverPath=Drivers\Windows\RNDIS
