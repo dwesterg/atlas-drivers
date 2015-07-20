@@ -66,3 +66,4 @@ sync
 umount ${MY_SD_FAT_MNT}
 losetup -d ${MY_LOOP_DEV}
 tar -czvf ${MY_IMAGE_FILE}.tgz ${MY_IMAGE_FILE}
+rm -Rf ${MY_SD_FAT_MNT}
