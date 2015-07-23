@@ -144,11 +144,11 @@ HKR,,CoInstallers32,0x00010000,"ftcserco.Dll,FTCSERCoInstaller"
 ;---------------------------------------------------------------;
 
 [Strings]
-FTDI="BeagleBone"
+FTDI="Atlas-SoC"
 DESC="CDM Driver Package - VCP Driver"
 DriversDisk="FTDI USB Drivers Disk"
 PortsClassName = "Ports (COM & LPT)"
-VID_0403&PID_A6D0.DeviceDesc="BeagleBone USB Serial Port"
+VID_0403&PID_A6D0.DeviceDesc="Atlas-SoC USB Serial Port"
 SvcDesc="USB Serial Port Driver"
 SerEnum.SvcDesc="Serenum Filter Driver"
 

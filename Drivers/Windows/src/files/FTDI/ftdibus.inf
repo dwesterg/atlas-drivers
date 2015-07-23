@@ -126,7 +126,7 @@ FTLang.dll
 ftd2xx.dll
 
 [Strings]
-Ftdi="BeagleBone"
+Ftdi="Atlas-SoC"
 DESC="CDM Driver Package - Bus/D2XX Driver"
 DriversDisk="FTDI USB Drivers Disk"
 USB\VID_0403&PID_A6D0&MI_00.DeviceDesc="XDS100v2 compatible USB Serial Converter A"
