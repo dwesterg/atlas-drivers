@@ -58,9 +58,7 @@
   <icon>atlassocdk.ico</icon>
   <watermarkPath>atlassocdk.bmp</watermarkPath>
   <search>
-    <subDirectory>FTDI</subDirectory>
     <subDirectory>RNDIS</subDirectory>
-    <subDirectory>CDCACM</subDirectory>
   </search>
   <legacyMode>on</legacyMode>
 </dpinst>
